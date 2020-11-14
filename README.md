@@ -12,7 +12,7 @@ This application is developed for the Covid-19 pandemic that is going on around 
 <img  alt="Screen Shot 2020-11-13 at 8 01 09 PM" src="https://user-images.githubusercontent.com/38293523/99134862-a32c5300-25ed-11eb-8627-d00fcf36fb89.png">
 
 # Demo Video
-To view the Demo Video <a href="https://www.youtube.com/">Click here</a>
+To view the Demo Video <a href="https://youtu.be/7yYiRAfXsdE">Click here</a>
 
 # Future Ideas
 
@@ -54,5 +54,5 @@ To view the Demo Video <a href="https://www.youtube.com/">Click here</a>
 # Links
 
 - <a href="https://www.figma.com/file/Tx8pJdK9piZwvJVUVJc1tJ/Figma-Test-2?node-id=0%3A1">Figma Design</a>
-- <a href="https://www.youtube.com/">Demo Video</a>
+- <a href="https://youtu.be/7yYiRAfXsdE">Demo Video</a>
 - <a href="https://github.com/Vandan00007/Covid-App">GitHub Repository</a>
