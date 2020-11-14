@@ -22,29 +22,25 @@ To view the Demo Video <a href="https://www.youtube.com/">Click here</a>
   <th>Possible Solution</th>
  </tr>
  <tr>
-  <td>Get appointment for COVID Test</td>
-  <td>Link to COVID-Alert or COVID Website</td>
+  <td>Book Covid Test</td>
+  <td>Locations on maps for covid centres</td>
  </tr>
  <tr>
   <tr>
-  <td>Alert when someone nearby reported they had COVID-19 on App</td>
-  <td>Add options similar to COVID-Alert App with bluetooth</td>
+  <td>Symptoms detectors</td>
+  <td>Devices sends codes to each other to detect whether person is affected or not</td>
  </tr>
  <tr>
   <td>Need Immediate Help</td>
   <td>Button to call 911</td>
  </tr>
  <tr>
-  <td>Need more COVID Information</td>
-  <td>Link to Canada's COVID-19 Website</td>
+  <td>Covid-19 News</td>
+  <td>Link to Covid-19 news to trustable websites</td>
  </tr>
  <tr>
-  <td>Show list of places to avoid</td>
-  <td>Make a breakdown of low-risk to high-risk places to go or not go to</td>
- </tr>
- <tr>
-  <td>Notify Family you've been in contact with someone who has COVID-19</td>
-  <td>Button to open texting application so you can message family</td>
+  <td>Show alerts where most cases is detected</td>
+  <td>Breakdown areas into smaller parts and detect the density of positive cases</td>
  </tr>
  <tr>
   <td>Don't know how to help someone in the app</td>
