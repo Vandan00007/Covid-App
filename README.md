@@ -31,10 +31,6 @@ To view the Demo Video <a href="https://www.youtube.com/">Click here</a>
   <td>Devices sends codes to each other to detect whether person is affected or not</td>
  </tr>
  <tr>
-  <td>Need Immediate Help</td>
-  <td>Button to call 911</td>
- </tr>
- <tr>
   <td>Covid-19 News</td>
   <td>Link to Covid-19 news to trustable websites</td>
  </tr>
@@ -42,8 +38,12 @@ To view the Demo Video <a href="https://www.youtube.com/">Click here</a>
   <td>Show alerts where most cases is detected</td>
   <td>Breakdown areas into smaller parts and detect the density of positive cases</td>
  </tr>
+  <tr>
+  <td>Need Immediate Help</td>
+  <td>Button to call 911</td>
+ </tr>
  <tr>
-  <td>Don't know how to help someone in the app</td>
-  <td>Make guide on how to connect to help someone</td>
+  <td>Create a community</td>
+  <td>create a place where people posts only about covid</td>
  </tr>
 </table>
