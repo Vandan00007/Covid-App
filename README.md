@@ -1,1 +1,1 @@
-# Covid-App
+# About the application
