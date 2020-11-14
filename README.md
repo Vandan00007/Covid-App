@@ -47,3 +47,12 @@ To view the Demo Video <a href="https://www.youtube.com/">Click here</a>
   <td>create a place where people posts only about covid</td>
  </tr>
 </table>
+
+
+
+
+# Links
+
+- <a href="https://www.figma.com/file/Tx8pJdK9piZwvJVUVJc1tJ/Figma-Test-2?node-id=0%3A1">Figma Design</a>
+- <a href="https://www.youtube.com/">Demo Video</a>
+- <a href="https://github.com/Vandan00007/Covid-App">GitHub Repository</a>
